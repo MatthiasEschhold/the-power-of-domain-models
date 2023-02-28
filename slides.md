@@ -61,7 +61,7 @@ Slidev is a slides maker and presenter designed for developers, consist of the f
 
 ---
 layout: image-right
-image: https://source.unsplash.com/collection/94734566/1920x1080
+image: ./assets/high-performance-teams.png
 ---
 
 # High Performance Teams
